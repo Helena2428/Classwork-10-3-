@@ -19,9 +19,21 @@ h1{
    text-align:center;
    font-size:24pt;
    text-decoration:overline underline;
+   background-color:#ee3e80;
    
    }
+   h2, h4,h6{
+     background-color:rgb(60,150,30);
+   }
+   h3,h5{
+         background-color:MistyRose;
+}
+p{
+  background-color:hotpink;
+  color:gold;
+  }
    
    img{
    	   float:left;
     }
+    
